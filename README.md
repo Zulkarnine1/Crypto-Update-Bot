@@ -21,6 +21,9 @@ In addition to these data it also provides relevant NEWS about the crypto curren
 are update to date with the current affairs of the crypto world. 
 
 Here's a sample snapshot of an alert from the bot -
+
+
+
 ![WeChat Photo Editor_20210402184234](https://user-images.githubusercontent.com/37840974/113416852-f6a80d80-93e3-11eb-92ad-8b2999e1a9c2.jpg)
 
 
